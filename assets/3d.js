@@ -1,4 +1,3 @@
-
 puzzle = 'puzzle.jpg';
 puzzle_img = new Image();
 puzzle_img.src = puzzle;
